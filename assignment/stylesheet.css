@@ -5,9 +5,14 @@ header {
     font-size: larger;
   }
   main {
+    background-color: black;
     color: lightgrey;
+    padding: 1em;
+    text-align: center;
+    font-size: larger;
   }
   body {
     background-image: url(record.png);
     background-repeat: inherit;
+    margin: 0;
   }
